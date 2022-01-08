@@ -1,8 +1,8 @@
-# Club Event Calendar Webpage
+# Club Event Calendar Webpage Demo
 
 [![Code Style: Google](https://img.shields.io/badge/code%20style-google-blueviolet.svg)](https://github.com/google/gts)
 
-Repository for Club Event Calendar.
+Repository for Club Event Calendar Webpage.
 Originally built for Busan Developers Club (BGM): [BusanDevelopers/BGM-Event-Calendar-Webpage](https://github.com/BusanDevelopers/BGM-Event-Calendar-Webpage).
 
 Demo: https://demo1.hcjang.com/club-event-calendar/
