@@ -10,7 +10,7 @@ module.exports = {
   target: ['browserslist', 'es5'],
   output: {
     path: join(__dirname, 'dist'),
-    publicPath: '/club-event-calendar',
+    publicPath: '/club-event-calendar/',
     filename: '[name].[contenthash:8].bundle.js',
     chunkFilename: '[name].[contenthash:8].chunk.bundle.js',
     clean: true,
