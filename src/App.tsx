@@ -155,7 +155,7 @@ function App(): React.ReactElement {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <Router>
+      <Router basename={'club-event-calendar'}>
         <Routes>
           <Route
             path="/"
