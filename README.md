@@ -5,7 +5,7 @@
 Repository for Club Event Calendar.
 Originally built for Busan Developers Club (BGM): [BusanDevelopers/BGM-Event-Calendar-Webpage](https://github.com/BusanDevelopers/BGM-Event-Calendar-Webpage).
 
-백앤드 API는 이 [리포지토리](https://github.com/BusanDevelopers/BGM-Event-Calendar-API)를, 지원하는 API 목록과 기능은 [API 문서](https://busandevelopers.github.io/BGM-Event-Calendar-API-Documentation/)를 참고해 주십시오.
+Refer this [Repository](https://github.com/hyecheol123/Club-Event-Calendar-API) for Back-End API Server Source Code and [API Documentation](https://hyecheol123.github.io/Club-Event-Calendar-API-Documentation/) for features.
 
 ## Scripts
 
